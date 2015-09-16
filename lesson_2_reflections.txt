@@ -1,0 +1,7 @@
+What happens when you initialize a repository?
+
+The repository is created
+
+Why do you need to do it?
+
+You need it to track you files and also monitor your commit or file changes.
