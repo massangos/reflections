@@ -1,7 +1,10 @@
+Add lesson 2
 What happens when you initialize a repository?
-
 The repository is created
 
 Why do you need to do it?
-
 You need it to track you files and also monitor your commit or file changes.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+staging area contain files that you can be able to keep track of them like adding commit,while working directory is where you files are located
+and repository that where you add your commit 
