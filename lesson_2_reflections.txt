@@ -1,4 +1,5 @@
-Add lesson 2
+Lesson no 2 or Add lesson 2
+
 What happens when you initialize a repository?
 The repository is created
 
