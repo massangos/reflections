@@ -8,4 +8,14 @@ You need it to track you files and also monitor your commit or file changes.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 staging area contain files that you can be able to keep track of them like adding commit,while working directory is where you files are located
-and repository that where you add your commit 
+and repository that where you add your commit.
+How can you use the staging area to make sure you have one commit per logical change?
+I will add the number of changes in the staging area before i commit.
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When I want to add a new feature but I am not sure whather that feature would work properly.
+How do the diagrams help you visualize the branch structure?
+I can see on which commit was the branch created.
+What is the result of merging two branches together? 
+the all become one branch which is easy to access
+Why do we represent it in the diagram the way we do?
+because in a branch you can make changes without affecting the origional file.
